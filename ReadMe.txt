@@ -4,12 +4,12 @@ This application allows you to fetch information about fruits from the Fruityvic
 
 ## Setup Instructions
 
-1. Open the repository.
+1. Clone the repository.
 2. Navigate to the project directory.
 3.Start the FruityAPI solution.
-3. Restore dependencies using `dotnet restore`.
-4. Build the project using `dotnet build`.
-5. Run the application using `dotnet run`.
+4. Restore dependencies using `dotnet restore`.
+5. Build the project using `dotnet build`.
+6. Run the application using `dotnet run`.
 
 ## API Endpoints
 
