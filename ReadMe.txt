@@ -1,4 +1,4 @@
-# FruitInfoApp
+# FruitAPI
 
 This application allows you to fetch information about fruits from the Fruityvice API and manage metadata.
 
